@@ -1,4 +1,4 @@
-### Hi there, I am a junior programmer who is currently studying in UTSC👋
+### Hi there, I am a programmer who is currently studying at Cornell University👋
 
 <!--
 **Yry01/Yry01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
